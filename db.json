@@ -1,0 +1,104 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Cougar",
+      "address": "109 Cougar St.",
+      "progress": 25,
+      "type": "Restoration",
+      "category": "Industrial",
+      "status": "Selling",
+      "investment": 35000000,
+      "risk": "High",
+      "return": 40
+    },
+    {
+      "id": 2,
+      "name": "Lion",
+      "address": "104 Lion St.",
+      "progress": 77,
+      "type": "Flipping",
+      "category": "Residential",
+      "status": "Building",
+      "investment": 27000000,
+      "risk": "Low",
+      "return": 30
+    },
+    {
+      "id": 3,
+      "name": "Elephant",
+      "address": "109 Elephant St.",
+      "progress": 45,
+      "type": "Buy and hold",
+      "category": "Retail",
+      "status": "Rented",
+      "investment": 105000000,
+      "risk": "Medium",
+      "return": 25
+    },
+    {
+      "id": 4,
+      "name": "Seal",
+      "address": "109 Seal St.",
+      "progress": 21,
+      "type": "Construction",
+      "category": "Commercial",
+      "status": "Regulating",
+      "investment": 80000000,
+      "risk": "High",
+      "return": 60
+    },
+    {
+      "name": "Empire State Building",
+      "address": "20 W 34th St, NY",
+      "progress": 100,
+      "type": "Buy and hold",
+      "category": "Commercial",
+      "status": "Selling",
+      "investment": 430000000,
+      "risk": "Medium",
+      "return": 40,
+      "marketTrends": {
+        "submarket": "New York City",
+        "priceIncreaseLast12Months": {
+          "allBuildings": 3.2,
+          "commercialProperties": 3.7,
+          "offices": 3.2
+        },
+        "expectedPriceIncreaseNext12Months": {
+          "allBuildings": 3.2,
+          "commercialProperties": 3.7,
+          "offices": 3.2
+        }
+      },
+      "mainInfo": {
+        "streetAddress": "20 W 34th St",
+        "City, State, Zip": "New York, NY, 10001",
+        "propertyType": "Commercial",
+        "Land id / usage id": "123 / 123",
+        "dealStatus": "None",
+        "coordinates": "40.7484º N, 73.9857º W"
+      },
+      "propertyDetails": {
+        "propertyUsage": "Offices",
+        "floors": 102,
+        "units": 750,
+        "bedrooms": 186,
+        "yearCompleted": 2003,
+        "floorArea": "208,879 m2",
+        "propertyArea": "8,094 m2",
+        "locationQuality": "Prime",
+        "energyLabel": "C"
+      },
+      "value": {
+        "lastSold": 2013,
+        "transactionValue": "$4.2 billion",
+        "estimatedValueToday": "$7.3 billion",
+        "estimatedValueIn1Year": "$7.6 billion",
+        "estimatedYield": 4.2,
+        "Price Per m2 of Comparable Properties": 32000
+      },
+      "id": 5
+    }
+  ]
+}
